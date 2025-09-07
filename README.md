@@ -5,7 +5,7 @@ This repository is designed as a quick reference and starting point for Infrastr
 
 ---
 
-## 📂 Contents
+## Contents
 
 - **Terraform** – reusable IaC snippets, module structures, and best practices  
 - **Ansible** – playbooks, roles, and inventory file examples  
